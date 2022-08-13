@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <section>
-        Hola soy jorge
+        <h1>Hola soy jorge</h1>
       </section>
     </div>
   )
